@@ -1,6 +1,6 @@
 #### Reflect and summarize on the in-class process:
 #### Single-line Summary
-**Today, _ and _ paired together. It took about _**
+**Today, we worked independently during an in-class workshop. It took about _**
 
 #### Reflect and summarize on your process for each `TODO` item :  
   1. First, we started on ...
@@ -8,8 +8,6 @@
   3. 
 
 #### Checklist (before submitting, fill in each set of square brackets with an 'x')
-- [] We have titled the Pull Request similar to our branch name (ex: 'brian-rick'). 
-- [] This PR includes commits from both myself and my partner; e.g. We followed good pair programming practices by switching driver/navigator roles.
+- [] I have titled the Pull Request similar to my branch name (ex: 'michelle'). 
 - [] There is no extraneous, unrelated code included in this PR.
-- [] We have summarized our `TODO:` process above.
-
+- [] I have summarized my `TODO:` process above.

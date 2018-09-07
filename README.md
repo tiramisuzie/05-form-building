@@ -1,8 +1,5 @@
 ![CF](https://camo.githubusercontent.com/70edab54bba80edb7493cad3135e9606781cbb6b/687474703a2f2f692e696d6775722e636f6d2f377635415363382e706e67) Lab 05: Form Building Workshop
 ===
-## Code Wars Challenge
-
-Complete [Kata 1](https://www.codewars.com/kata/regex-validate-pin-code) and [Kata 2](https://www.codewars.com/kata/alternate-capitalization/javascript), then follow the submission instructions from Lab 01. Note that the instructions must be followed for *each* of these challenges.
 
 ## Lab 05 Submission Instructions
 Follow the submission instructions from Lab 01.
@@ -89,8 +86,8 @@ _Your README.md must include:_
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+-->
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
 ```
